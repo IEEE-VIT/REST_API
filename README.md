@@ -5,6 +5,7 @@ Here's an explanation of the project you will be working on!
 
 We are going to make a virtual library!
 We need two roles, an admin and a user
+
 An admin can:
 1) Add a book
 2) Delete a book ( it's no longer in stock for example)
