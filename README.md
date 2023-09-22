@@ -1,9 +1,6 @@
 # REST_API
 Welcome to Source Sprint's back-end repository!
 
-<p align="center">![image](https://github.com/IEEE-VIT/REST_API/assets/102132129/4257f0f6-9525-43e6-9412-4f7d216c6504)
-</p>
-
 ## About
 
 IEEE-VIT presents Source-Sprint. The event had a workshop to make everyone aquainted with the nuances and basics of Git and Github. Now it's turn for us to open up repositories with issues for participants to work on, each issue is assigned a certain number of points (based on techstack, difficulty etc.).
