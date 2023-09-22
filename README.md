@@ -23,3 +23,6 @@ This must be achieved using JWT ( JSON Web Tokens)
 
 The tech stack used must be Flask, and a database can be made with the help of SQLAlchemy
 
+<h3>Resources:</h3>
+You can test the routes in the repository with Postman. (You may have to download the application) <br>
+https://www.geeksforgeeks.org/basics-of-api-testing-using-postman/
