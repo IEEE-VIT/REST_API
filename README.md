@@ -26,6 +26,9 @@ A user can:
 The user and admin routes must be protected, i.e, they can only be accessed when the user logs in!
 This must be achieved using JWT ( JSON Web Tokens)
 
+We have already made the login route to help you out!
+Read through the code to understand about how to go about the project
+
 The tech stack used must be Flask, and a database can be made with the help of SQLAlchemy
 
 You can check out the website [here](https://ieeevit.org/).
