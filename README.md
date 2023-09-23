@@ -31,7 +31,7 @@ Read through the code to understand about how to go about the project
 
 The tech stack used must be Flask, and a database can be made with the help of SQLAlchemy
 
-You can check out the website [here](https://ieeevit.org/).
+You can check out the website [here](https://sourcesprint.ieeevit.org/).
 
 ## Tools and Technologies To Be Used
 * Flask
