@@ -19,7 +19,29 @@ def login():
         token=jwt.encode({"user_id":user.user_id,"exp":datetime.datetime.utcnow()+datetime.timedelta(minutes=20)},app.config['SECRET_KEY'])
         return jsonify({"token":token})
     return make_response("Could not verify",401,{"WWW-Authenticate" :'Basic realm="Login required"'})
-
+    def admin():
+        book = input("Enter the name of the book:")
+        print(book.add)
+        print(book.delete)
+        if (details!=0):
+        {
+            book = input("enter the books:")
+            print(user.detail)
+        }
+        else
+        {
+            print("invalid")
+        }
+        
+    def user():
+        if check_password_hash(user.password,auth.password):
+        {
+            print("password is: " + "Isha1237!")
+        }
+        else:
+        {
+            print("Invalid")
+        }
 
 
 
@@ -27,3 +49,4 @@ def login():
 
 if __name__=='__main__':
     app.run(debug=True)
+
